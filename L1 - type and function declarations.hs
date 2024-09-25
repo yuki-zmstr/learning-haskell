@@ -1,6 +1,8 @@
 {- this is a comment -}
 -- this is another comment
 
+-- 1.1.1 Declarations
+
 -- type declaration
 a :: Int = 2
 

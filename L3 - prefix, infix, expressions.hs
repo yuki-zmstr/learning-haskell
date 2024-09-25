@@ -45,7 +45,7 @@ infixl 8 @@
 
 -- If two operators have the same priority, then execution is from left to right
 
--- Expressions
+-- 1.1.2 Expressions
 -- every expression has a type and a value
 -- to evaluate an expression,
 -- 1) first the compiler checks whether the expression is well-typed
